@@ -138,7 +138,7 @@ class Project extends React.Component {
               </div>
             </div>
             <br />
-            <div class="col-sm-12">
+             {/* <div class="col-sm-12">
               <h2 class="myskills" style={{ textAlign: "justify" }}>
                 To Do List App Using React JS
               </h2>
@@ -180,10 +180,10 @@ class Project extends React.Component {
                   </ul>
                   <br />
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
+              </div> 
+                      </div>*/}
+                      </div>
+        </div> 
         <br />
         <div class="jumbotron text-center" id="footer">
         <ul class="nav justify-content-center">
